@@ -1,0 +1,17 @@
+{
+  "name": "share",
+  "version": "0.0.0",
+  "description": "Share files sync.",
+  "main": "gulpfile.js",
+  "license": "UNLICENSED",
+  "private": true,
+  "scripts": {
+    "start": "gulp"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "del": "^3.0.0",
+    "gulp": "^4.0.0",
+    "gulp-all": "^1.1.0"
+  }
+}
